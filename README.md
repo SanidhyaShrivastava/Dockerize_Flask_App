@@ -50,7 +50,5 @@ To get a local copy up and running follow these simple steps.
 5. Apply the migrations to the database:
    ```sh
    flask db upgrade
-
-
 ### Usage
  Visit http://localhost:5000 in your web browser to see the Flask application in action.
